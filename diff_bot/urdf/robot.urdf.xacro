@@ -3,6 +3,7 @@
 
     <xacro:include filename="comman_properites.xacro" />
     <xacro:include filename="mobile_base.xacro" />
-
+    <xacro:include filename="gazebo_control.xacro" />
+    
 
 </robot>
